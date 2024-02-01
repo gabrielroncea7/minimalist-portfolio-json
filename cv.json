@@ -1,0 +1,110 @@
+{
+    "basics": {
+      "name": "Gabriel Ionut Roncea",
+      "label": "Full Stack Developer & Engineer",
+      "image": "https://media.licdn.com/dms/image/D4D03AQH7yXjFjqJh-Q/profile-displayphoto-shrink_800_800/0/1699915529669?e=1712188800&v=beta&t=j9osFGmRGeuyR4NNJea1meM3BwsmRSdA0Tl6Pgy0jng",
+      "email": "gabrielroncea00@gmail.com",
+      "phone": "(+34) 6559921**",
+      "url": "https://gabrielCV.com",
+      "summary": "Desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web y móviles. Apasionado por la tecnología y la innovación. Me encanta aprender y mejorar mis habilidades. Siempre estoy buscando nuevos desafíos y oportunidades para crecer profesionalmente.",
+      "location": {
+        "address": "**",
+        "postalCode": "14013",
+        "city": "Cordoba",
+        "countryCode": "ES",
+        "region": "España"
+      },
+      "profiles": [{
+        "network": "Linkedin",
+        "username": "gabrielroncea00",
+        "url": "https://www.linkedin.com/in/gabrielroncea00/"
+      }]
+    },
+    "work": [{
+      "name": "Company",
+      "position": "President",
+      "url": "https://www.linkedin.com/in/gabrielroncea00/",
+      "startDate": "2018-01-01",
+      "endDate": "2024-01-02",
+      "summary": "Aprendizaje continuo y mejora de habilidades.",
+      "highlights": [
+        "ASIR + Ingeniería Informática"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad de Cordoba",
+      "url": "https://www.uco.es",
+      "area": "Desarrollador de Software",
+      "studyType": "Degree",
+      "startDate": "2020-01-01",
+      "endDate": "2024-01-01",
+      "score": "7.0",
+      "courses": [
+        "SQL, JS, HTML, CSS, PHP, Java, C, C++, Python, Android, IOS, React, Angular, NodeJS, MongoDB, MySQL, Oracle, Git, Docker, Kubernetes, AWS, Azure, GCP, Linux, Windows, Mac, etc."
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
